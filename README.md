@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MattSarno
-- 👀 I’m interested in game development, new tech, and any form of software development
+- 👀 I’m interested in game programming, new tech, and really any form of software development
 - 🌱 I’m currently learning graphical programming with vulkan, directx, and opengl
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
