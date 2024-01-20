@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @MattSarno
+- 🏬 I currently work at Sonepar USA as a .Net Developer with a focus on architecture & logistics software
 - 👀 I’m interested in game programming, new tech, and really any form of software development
 - 🌱 I’m currently learning graphical programming with vulkan, directx, and opengl
 - 💞️ I’m looking to collaborate on ...
